@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Dennis</h1>
+<p align="center">Aspiring Developer &nbsp;&nbsp; ⦁ &nbsp;&nbsp; Professional Beginner &nbsp;&nbsp; ⦁ &nbsp;&nbsp; My code runs on coffee and denial </p>
 
-<!--
-**Beastido/Beastido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### About Me
+<hr style="border:0;border-top:1px solid #eee;" />
 
-Here are some ideas to get you started:
+- 🎓 Computer Science Student at the University of Applied Sciences in Dresden  
+- 💡 Documenting my learning journey
+- 👀 showcase some of my academic and personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+### Currently working on ...
+---
+- 🌐 Website Automation Project --- automating a website so that the company can independently manage and update content without technical knowledge
+  
+- PL/0 compiler in **Java** using **JFlex** --- Building a PL/0 compiler as part of my academic work
