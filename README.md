@@ -21,5 +21,5 @@
 <h2 align="center">Statistics</h2>
 <!-- GitHub stats from https://github.com/Pranesh-2005/github-readme-stats-fast -->
 
-![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Beastido&theme=dracula&hide_title=true)
-![most used languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Beastido&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Beastido&show_icons=true&hide_title=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-beastidos-projects.vercel.app/api/top-langs?username=Beastido&layout=compact&theme=dracula)
